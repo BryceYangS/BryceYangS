@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+  * LG CNS Web Application Developer
+- 🌱 I’m currently learning ...
+  * SpringBoot
+  * JPA
+  * Java8
+  * Docker
+  * Algorithms
+- 📫 How to reach me: ...
+  * nash31@korea.ac.kr  
+  
+[![BryceYangS's github stats](https://github-readme-stats.vercel.app/api?username=BryceYangS)](https://github.com/anuraghazra/github-readme-stats)
