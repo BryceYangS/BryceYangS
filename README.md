@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
   * LG CNS Web Application Developer
 - 🌱 I’m currently learning ...
+ + Backend
   * SpringBoot
   * JPA
   * Java8
   * Docker
   * Algorithms
+ + Frontend
+  * Javascript
+  * Vue.js
 - 📫 How to reach me: ...
   * nash31@korea.ac.kr  
   
