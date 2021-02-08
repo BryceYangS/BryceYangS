@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     * Java8
     * Docker
     * Algorithms
+    * Design Pattern
   + Frontend
     * Javascript
     * Vue.js
