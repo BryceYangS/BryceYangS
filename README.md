@@ -18,8 +18,8 @@
       * Algorithms
     + Frontend
       * Javascript
-  - 📫 How to reach me: ...
-    * nash31@korea.ac.kr  
+  - 📫 How to reach me: <a href="mailto:nash31@korea.ac.kr">nash31@korea.ac.kr</a>
+  - 📖 Blog : [https://bryceyangs.github.io/](https://bryceyangs.github.io/)
  </td>
 
  <td>
