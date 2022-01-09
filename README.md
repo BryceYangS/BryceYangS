@@ -5,7 +5,7 @@
  <td valign="top" width="50%">
  
   - 🔭 I’m currently working on ...
-    * LG CNS Web Application Developer
+    * Naver corp.
   - 🌱 I’m currently learning ...
     + Backend
       * Java8
